@@ -5,9 +5,6 @@ double x, y, i;
 double A, B = 0;
 int d, z;
 
-//式を決定
-
-
 int main(void){
   printf("式は y = x*x+2*x-1 です。\n");
   //範囲を決定
