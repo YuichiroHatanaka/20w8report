@@ -1,4 +1,4 @@
-include<stdio.h>
+#include <stdio.h>
 
 int;
 double a, b, c, d, i;
